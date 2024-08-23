@@ -4,9 +4,9 @@ I am a detail-oriented Data Analyst with expertise in transforming complex data 
 
 Skills: Python / SQL / Excel / Power BI / Tableau / Data cleaning / Data Formatting / Data Scraping / Data Analysis / Data Visualization
 
-- 🌱 I’m currently learning Tableau , Machine Learning. 
+- 🌱 I’m currently learning Machine Learning. 
 - 👯 I’m looking to collaborate on on a real time data and dashboard. 
-- 💬 Ask me about SQL , Python , Power BI , Excel. 
+- 💬 Ask me about SQL , Python , Power BI , Excel, Tableau. 
 - 📫 How to reach me: jainv9088@gmail.com 
 - ⚡ Fun fact: I am passionate about finding the hidden patterns. 
 
