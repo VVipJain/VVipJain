@@ -19,3 +19,5 @@ Skills: Python / SQL / Excel / Power BI / Tableau / Data cleaning / Data Formatt
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=VVipJain)  
 
+[![](https://visitcount.itsvg.in/api?id=Vipul&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
