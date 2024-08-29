@@ -10,6 +10,7 @@ Skills: Python / SQL / Excel / Power BI / Tableau / Data cleaning / Data Formatt
 - 📫 How to reach me: jainv9088@gmail.com 
 - ⚡ Fun fact: I am passionate about finding the hidden patterns. 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VVipJain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vipuljain05//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/_vipul__jain//)  
 
