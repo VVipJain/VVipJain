@@ -2,7 +2,7 @@
 #### An Aspiring Data Analyst/ Scientist Dedicated to Driving Impact Through Data Analysis
 I am a detail-oriented Data Analyst with expertise in transforming complex data into actionable insights that drive business decisions. Proficient in SQL, Python, and Excel for data analysis, I also excel at creating clear visualizations using Power BI and Tableau. I have successfully contributed to projects that improved efficiency and boosted profitability across various industries. I’m passionate about leveraging data to solve problems, optimize processes, and support strategic goals. I thrive in collaborative environments and am committed to continuous learning to stay at the forefront of data analytics.
 
-Skills: Python / SQL / Excel / Power BI / Tableau / Data cleaning / Data Formatting / Data Scraping / Data Analysis / Data Visualization
+Skills: Python / SQL / Excel / Power BI / Tableau / Data cleaning / Data Formatting / Data Scraping / Data Analysis / Data Visualization / Data Science.
 
 - 🌱 I’m currently learning Machine Learning. 
 - 👯 I’m looking to collaborate on on a real time data and dashboard. 
