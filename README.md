@@ -6,9 +6,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-Data Analyst/ Data Scientist Dedicated to Driving Impact Through Data Analysis and Machine Learning.
+<div align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=26&duration=3000&pause=1000&center=true&width=700&lines=Data+Analyst;AI%2FML+Enthusiast;Data+Visualisation+Engineer;Forsta+%7C+Power+BI+%7C+DisplayR+%7C+Tableau" alt="Typing SVG" /></a>
+</div>
 
-I am a detail-oriented Data Analyst with expertise in transforming complex data into actionable insights that drive business decisions. Proficient in SQL, Python, and Excel for data analysis, I also excel at creating clear visualizations using Power BI, Dapresy, DisplayR and Tableau. I have successfully contributed to projects that improved efficiency and boosted profitability across various industries. I’m passionate about leveraging data to solve problems, optimize processes, and support strategic goals. I thrive in collaborative environments and am committed to continuous learning to stay at the forefront of data analytics.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 # 💫 About Me:
 🔭 I’m currently working on data visualisation projects<br>👯 I’m looking to collaborate on real time data and dashboard projects<br>🤝 I’m looking for help with Machine learning<br>🌱 I’m currently learning advanced SQL and python<br>💬 Ask me about SQL , Python , Power BI , Excel, Tableau, Dapresy and DisplayR<br>⚡ Fun fact : I am passionate about finding the hidden patterns.
