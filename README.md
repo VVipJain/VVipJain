@@ -1,3 +1,8 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=26&duration=3000&pause=1000&center=true&width=435&lines=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Hey%2C+I+am+Shashwat!" alt="Typing SVG" />
+  </a>
+</div>
 ### Hi there 👋, My name is Vipul Jain
 #### An Data Analyst/ Data Scientist Dedicated to Driving Impact Through Data Analysis and Machine Learning.
 I am a detail-oriented Data Analyst with expertise in transforming complex data into actionable insights that drive business decisions. Proficient in SQL, Python, and Excel for data analysis, I also excel at creating clear visualizations using Power BI, Dapresy, DisplayR and Tableau. I have successfully contributed to projects that improved efficiency and boosted profitability across various industries. I’m passionate about leveraging data to solve problems, optimize processes, and support strategic goals. I thrive in collaborative environments and am committed to continuous learning to stay at the forefront of data analytics.
