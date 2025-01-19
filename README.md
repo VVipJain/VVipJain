@@ -4,7 +4,10 @@
   </a>
 </div>
 
-A Data Analyst/ Data Scientist Dedicated to Driving Impact Through Data Analysis and Machine Learning.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+Data Analyst/ Data Scientist Dedicated to Driving Impact Through Data Analysis and Machine Learning.
+
 I am a detail-oriented Data Analyst with expertise in transforming complex data into actionable insights that drive business decisions. Proficient in SQL, Python, and Excel for data analysis, I also excel at creating clear visualizations using Power BI, Dapresy, DisplayR and Tableau. I have successfully contributed to projects that improved efficiency and boosted profitability across various industries. I’m passionate about leveraging data to solve problems, optimize processes, and support strategic goals. I thrive in collaborative environments and am committed to continuous learning to stay at the forefront of data analytics.
 
 # 💫 About Me:
